@@ -1,0 +1,15 @@
+{
+    "name": "usuario/git-prueba-1",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\GitPrueba1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mansomanso",
+            "email": "agrssanchez@gmail.com"
+        }
+    ],
+    "require": {}
+}
