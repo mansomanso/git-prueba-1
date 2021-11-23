@@ -1,3 +1,4 @@
 <?php
 
-echo "Hola mundon de Git";
+$saludo = new Saludo("Fermín");
+$saludo->saludar();
